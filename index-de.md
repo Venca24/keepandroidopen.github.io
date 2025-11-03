@@ -5,8 +5,6 @@ permalink: /de/
 description: "Befürwortung von Android als kostenlose und offene Plattform für jeden, um Apps zu entwickeln."
 ---
 
-# Keep Android Open
-
 Im August 2025 hat Google [angekündigt](https://developer.android.com/developer-verification), dass es ab dem folgenden Jahr nicht mehr möglich sein wird, Anwendungen für die Android-Plattform zu entwickeln, ohne sich zuvor bei Google registriert zu haben.
 Diese Registrierung umfasst:
 
