@@ -242,12 +242,12 @@ Diese Projekte arbeiten daran, den dringend benötigten Wettbewerb auf dem Markt
 
 ### Video-Antworten
 
-- „Google: 'Your $1000 phone needs our permission to install apps now'“ — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
-- „F-Droid wird 2026 sterben, wenn wir jetzt nicht handeln — Techlore“ — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY)
-- „Google entfernt Sideloading“ — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8)
-- „Googles Änderungen beim Sideloading könnten F-Droid beenden – Linux Weekly News“ — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
-- „Steht F-Droid in Gefahr? Googles Entwicklerverifizierung erklärt“ — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
-- „Google macht Android zu Apple: Das Ende der Offenheit“ — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
+- „Google: 'Your $1000 phone needs our permission to install apps now'“ — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E) ([Invidious](https://redirect.invidious.io/watch?v=QBEKlIV_70E))
+- „F-Droid wird 2026 sterben, wenn wir jetzt nicht handeln — Techlore“ — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY) ([Invidious](https://redirect.invidious.io/watch?v=wRvqdLsnsKY))
+- „Google entfernt Sideloading“ — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8) ([Invidious](https://redirect.invidious.io/watch?v=-R76VJtTDJ8))
+- „Googles Änderungen beim Sideloading könnten F-Droid beenden – Linux Weekly News“ — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0) ([Invidious](https://redirect.invidious.io/watch?v=iMqpm2Ahmt0))
+- „Steht F-Droid in Gefahr? Googles Entwicklerverifizierung erklärt“ — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk) ([Invidious](https://redirect.invidious.io/watch?v=-SOOoQWv4kk))
+- „Google macht Android zu Apple: Das Ende der Offenheit“ — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY) ([Invidious](https://redirect.invidious.io/watch?v=WFOPzixHoLY))
 
 ### Diskussionen
 

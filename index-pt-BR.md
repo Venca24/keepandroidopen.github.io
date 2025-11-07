@@ -241,12 +241,12 @@ Esses projetos estão trabalhando para proporcionar a muito necessária competi�
 
 ### Vídeo Respostas
 
-- “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E)
-- “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY)
-- “Google is Removing Sideloading” — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8)
-- “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
-- “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
-- “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
+- “Google: 'Your $1000 phone needs our permission to install apps now'” — Louis Rossmann — [https://youtu.be/QBEKlIV_70E](https://youtu.be/QBEKlIV_70E) ([Invidious](https://redirect.invidious.io/watch?v=QBEKlIV_70E))
+- “F-Droid Will Die in 2026 Unless We Act Now — Techlore” — [https://youtu.be/wRvqdLsnsKY](https://youtu.be/wRvqdLsnsKY) ([Invidious](https://redirect.invidious.io/watch?v=wRvqdLsnsKY))
+- “Google is Removing Sideloading” — LMG Clips — [https://youtu.be/-R76VJtTDJ8](https://youtu.be/-R76VJtTDJ8) ([Invidious](https://redirect.invidious.io/watch?v=-R76VJtTDJ8))
+- “Google's changes to sideloading could end F-Droid - Linux Weekly News” — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0) ([Invidious](https://redirect.invidious.io/watch?v=iMqpm2Ahmt0))
+- “Is F-Droid in Trouble? Google Developer Verification” — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk) ([Invidious](https://redirect.invidious.io/watch?v=-SOOoQWv4kk))
+- “Google is Applefying Android: The End of Openness” — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY) ([Invidious](https://redirect.invidious.io/watch?v=WFOPzixHoLY))
 
 ### Discussões
 
